@@ -1031,7 +1031,8 @@
     "criteria": {
       "minecraft:calico": "2024-05-14 06:21:56 +0000",
       "minecraft:siamese": "2024-06-16 00:40:36 +0000",
-      "minecraft:all_black": "2024-05-14 06:22:29 +0000"
+      "minecraft:all_black": "2024-05-14 06:22:29 +0000",
+      "minecraft:british_shorthair": "2024-09-05 19:04:28 +0000"
     },
     "done": false
   },
@@ -4065,6 +4066,42 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-07-21 02:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-08-06 01:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-09-05 19:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-09-07 01:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-09-07 01:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-09-07 01:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-09-07 01:22:53 +0000"
     },
     "done": true
   },

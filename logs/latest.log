@@ -1,16 +1,11 @@
-[04:22:23] [Server thread/INFO]: C4M1LL3[/186.30.159.217:64023] logged in with entity id 942306 at (77.69999998807907, 202.0, -345.6070780417323)
-[04:22:23] [Server thread/INFO]: C4M1LL3 joined the game
-[04:22:29] [Server thread/INFO]: C4M1LL3 lost connection: Disconnected
-[04:22:29] [Server thread/INFO]: C4M1LL3 left the game
-[04:22:29] [Server thread/WARN]: handleDisconnection() called twice
-[04:22:48] [Server thread/INFO]: Stopping the server
-[04:22:48] [Server thread/INFO]: Stopping server
-[04:22:48] [Server thread/INFO]: Saving players
-[04:22:48] [Server thread/INFO]: Saving worlds
-[04:22:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:22:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:22:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:22:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:22:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:22:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:22:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:07:56] [Server thread/INFO]: Stopping the server
+[23:07:56] [Server thread/INFO]: Stopping server
+[23:07:56] [Server thread/INFO]: Saving players
+[23:07:56] [Server thread/INFO]: Saving worlds
+[23:07:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:07:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:07:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
