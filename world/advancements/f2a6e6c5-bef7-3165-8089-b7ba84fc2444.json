@@ -11,7 +11,9 @@
       "minecraft:old_growth_pine_taiga": "2024-06-10 05:54:48 +0000",
       "minecraft:forest": "2024-05-14 05:24:22 +0000",
       "minecraft:taiga": "2024-06-10 05:53:53 +0000",
+      "minecraft:deep_ocean": "2024-11-09 02:35:05 +0000",
       "minecraft:desert": "2024-07-09 04:03:24 +0000",
+      "minecraft:frozen_river": "2024-11-09 01:49:38 +0000",
       "minecraft:ocean": "2024-05-19 22:56:53 +0000",
       "minecraft:jungle": "2024-05-19 23:00:56 +0000",
       "minecraft:cherry_grove": "2024-05-14 05:05:49 +0000",
@@ -23,6 +25,7 @@
       "minecraft:wooded_badlands": "2024-07-09 04:07:19 +0000",
       "minecraft:windswept_savanna": "2024-06-10 05:38:00 +0000",
       "minecraft:warm_ocean": "2024-07-09 04:05:37 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-11-08 23:53:38 +0000",
       "minecraft:flower_forest": "2024-06-10 05:44:20 +0000",
       "minecraft:savanna_plateau": "2024-05-14 04:53:57 +0000",
       "minecraft:beach": "2024-05-20 02:46:19 +0000",
@@ -536,6 +539,7 @@
       "mutton": "2024-05-14 05:11:49 +0000",
       "bread": "2024-05-14 04:58:58 +0000",
       "suspicious_stew": "2024-06-29 05:48:31 +0000",
+      "cookie": "2024-11-10 01:53:43 +0000",
       "cooked_mutton": "2024-05-19 22:18:03 +0000",
       "cooked_beef": "2024-05-19 22:03:40 +0000",
       "beef": "2024-05-14 05:09:41 +0000",
@@ -4033,5 +4037,17 @@
     },
     "done": true
   },
-  "DataVersion": 3700
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-09 02:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-11-09 02:37:36 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
 }
