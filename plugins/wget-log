@@ -1,0 +1,15 @@
+--2024-11-10 04:22:08--  https://repo.nickuc.com/download?name=nLogin
+Resolving repo.nickuc.com (repo.nickuc.com)... 104.21.8.205, 172.67.130.160, 2606:4700:3037::6815:8cd, ...
+Connecting to repo.nickuc.com (repo.nickuc.com)|104.21.8.205|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://repo.nickuc.com/files/latest/nLogin.jar [following]
+--2024-11-10 04:22:09--  https://repo.nickuc.com/files/latest/nLogin.jar
+Reusing existing connection to repo.nickuc.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3661205 (3.5M) [application/java-archive]
+Saving to: ‘download?name=nLogin’
+
+download?name=nLogin                                                  0%[                                                                                                                                                                   ]       0  --.-KB/s               download?name=nLogin                                                 18%[=============================>                                                                                                                                     ] 679.16K  3.24MB/s               download?name=nLogin                                                100%[==================================================================================================================================================================>]   3.49M  10.8MB/s    in 0.3s    
+
+2024-11-10 04:22:09 (10.8 MB/s) - ‘download?name=nLogin’ saved [3661205/3661205]
+
