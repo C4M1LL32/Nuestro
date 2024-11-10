@@ -1,130 +1,191 @@
-[01:26:19] [Server thread/INFO]: C4M1LL3[/181.237.191.248:54501] logged in with entity id 94616 at (28.58108402169456, 63.5625, -337.60922172328725)
-[01:26:19] [Server thread/INFO]: C4M1LL3 joined the game
-[01:28:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=74, z=-395} jd{x=65, y=73, z=-397}
-[01:28:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=74, z=-395} jd{x=65, y=73, z=-397}
-[01:28:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=74, z=-395} jd{x=65, y=73, z=-397}
-[01:32:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=16, y=74, z=-401} jd{x=16, y=73, z=-401}
-[01:32:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2, y=75, z=-402} jd{x=-5, y=74, z=-402}
-[01:33:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=74, z=-403} jd{x=21, y=74, z=-402}
-[01:34:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3, y=77, z=-404} jd{x=-4, y=76, z=-405}
-[01:34:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3, y=77, z=-404} jd{x=-4, y=76, z=-405}
-[01:34:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3, y=77, z=-404} jd{x=-4, y=76, z=-405}
-[01:34:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=80, z=-404} jd{x=6, y=75, z=-405}
-[01:35:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=76, z=-404} jd{x=38, y=74, z=-404}
-[01:35:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=76, z=-404} jd{x=38, y=74, z=-404}
-[01:36:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=41, y=76, z=-434} jd{x=41, y=74, z=-434}
-[01:38:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=74, z=-407} jd{x=36, y=74, z=-407}
-[01:38:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=74, z=-407} jd{x=36, y=74, z=-407}
-[01:38:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=75, z=-407} jd{x=44, y=74, z=-407}
-[01:38:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=75, z=-407} jd{x=44, y=74, z=-407}
-[01:38:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=75, z=-407} jd{x=44, y=74, z=-407}
-[01:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=73, z=-406} jd{x=49, y=76, z=-406}
-[01:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=73, z=-406} jd{x=49, y=76, z=-406}
-[01:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=73, z=-406} jd{x=49, y=76, z=-406}
-[01:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=73, z=-406} jd{x=49, y=76, z=-406}
-[01:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=73, z=-406} jd{x=49, y=76, z=-406}
-[01:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=73, z=-406} jd{x=49, y=76, z=-406}
-[01:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=73, z=-406} jd{x=49, y=76, z=-406}
-[01:38:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=74, y=74, z=-407} jd{x=73, y=73, z=-407}
-[01:38:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=74, y=74, z=-407} jd{x=73, y=73, z=-407}
-[01:39:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=75, y=74, z=-417} jd{x=74, y=74, z=-419}
-[01:39:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=75, y=74, z=-417} jd{x=74, y=74, z=-419}
-[01:40:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=68, y=73, z=-417} jd{x=69, y=74, z=-417}
-[01:40:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=55, y=76, z=-420} jd{x=55, y=75, z=-421}
-[01:40:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=55, y=76, z=-420} jd{x=55, y=75, z=-421}
-[01:40:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=55, y=76, z=-420} jd{x=55, y=75, z=-421}
-[01:41:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=54, y=77, z=-425} jd{x=53, y=77, z=-425}
-[01:41:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=47, y=74, z=-427} jd{x=48, y=74, z=-426}
-[01:41:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=44, y=75, z=-426} jd{x=44, y=76, z=-423}
-[01:42:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=74, z=-432} jd{x=42, y=75, z=-433}
-[01:42:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=74, z=-432} jd{x=42, y=75, z=-433}
-[01:42:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=74, z=-432} jd{x=42, y=75, z=-433}
-[01:42:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=74, z=-432} jd{x=35, y=74, z=-433}
-[01:42:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=77, z=-429} jd{x=34, y=76, z=-429}
-[01:42:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=77, z=-429} jd{x=34, y=76, z=-429}
-[01:43:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=30, y=78, z=-424} jd{x=29, y=75, z=-424}
-[01:44:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=4, y=77, z=-411} jd{x=3, y=75, z=-410}
-[01:44:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=75, z=-409} jd{x=7, y=75, z=-410}
-[01:44:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=7, y=76, z=-408} jd{x=7, y=77, z=-408}
-[01:44:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=11, y=77, z=-414} jd{x=10, y=76, z=-415}
-[01:44:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=11, y=77, z=-414} jd{x=10, y=76, z=-415}
-[01:44:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=11, y=77, z=-414} jd{x=10, y=76, z=-415}
-[01:44:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=11, y=77, z=-414} jd{x=10, y=76, z=-415}
-[01:44:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=11, y=77, z=-414} jd{x=10, y=76, z=-415}
-[01:45:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=75, z=-414} jd{x=19, y=75, z=-416}
-[01:46:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=75, z=-412} jd{x=20, y=73, z=-411}
-[01:46:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=20, y=72, z=-411} jd{x=20, y=73, z=-411}
-[01:47:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=77, z=-417} jd{x=34, y=76, z=-417}
-[01:48:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=74, z=-409} jd{x=35, y=74, z=-409}
-[01:48:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=74, z=-409} jd{x=35, y=74, z=-409}
-[01:48:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=74, z=-409} jd{x=35, y=74, z=-409}
-[01:48:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=74, z=-408} jd{x=37, y=73, z=-408}
-[01:48:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=75, z=-415} jd{x=38, y=75, z=-413}
-[01:48:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=75, z=-415} jd{x=38, y=75, z=-413}
-[01:48:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=77, z=-414} jd{x=38, y=76, z=-415}
-[01:48:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=40, y=78, z=-418} jd{x=39, y=75, z=-417}
-[01:50:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=74, z=-409} jd{x=46, y=76, z=-408}
-[01:50:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=74, z=-409} jd{x=46, y=76, z=-408}
-[01:50:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=50, y=78, z=-409} jd{x=50, y=75, z=-410}
-[01:50:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=52, y=77, z=-410} jd{x=52, y=76, z=-410}
-[01:50:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=52, y=77, z=-410} jd{x=52, y=76, z=-410}
-[01:51:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=58, y=75, z=-412} jd{x=58, y=74, z=-411}
-[01:51:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=60, y=75, z=-410} jd{x=60, y=74, z=-409}
-[01:51:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=74, z=-407} jd{x=61, y=76, z=-408}
-[01:51:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=74, z=-407} jd{x=61, y=76, z=-408}
-[01:51:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=74, z=-407} jd{x=61, y=76, z=-408}
-[01:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=74, z=-407} jd{x=61, y=76, z=-408}
-[01:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=74, z=-407} jd{x=61, y=76, z=-408}
-[01:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=74, z=-407} jd{x=61, y=76, z=-408}
-[01:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=74, z=-407} jd{x=61, y=76, z=-408}
-[01:51:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=61, y=74, z=-410} jd{x=61, y=74, z=-409}
-[01:51:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=61, y=74, z=-410} jd{x=61, y=74, z=-409}
-[01:51:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=76, z=-412} jd{x=62, y=73, z=-412}
-[01:51:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=77, z=-412} jd{x=62, y=76, z=-412}
-[01:51:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=77, z=-412} jd{x=62, y=76, z=-412}
-[01:51:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=77, z=-412} jd{x=62, y=76, z=-412}
-[01:51:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=63, y=77, z=-420} jd{x=64, y=76, z=-420}
-[01:51:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=63, y=77, z=-420} jd{x=64, y=76, z=-420}
-[01:51:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=64, y=74, z=-410} jd{x=64, y=74, z=-409}
-[01:55:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=72, z=-400} jd{x=63, y=72, z=-399}
-[01:55:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=72, z=-400} jd{x=63, y=72, z=-399}
-[01:55:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=72, z=-400} jd{x=63, y=72, z=-399}
-[01:55:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=59, y=72, z=-400} jd{x=63, y=72, z=-399}
-[01:59:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=45, y=72, z=-405} jd{x=45, y=73, z=-407}
-[01:59:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=45, y=72, z=-405} jd{x=45, y=73, z=-407}
-[01:59:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=45, y=72, z=-405} jd{x=45, y=73, z=-407}
-[01:59:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=45, y=72, z=-405} jd{x=45, y=73, z=-407}
-[01:59:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=45, y=72, z=-405} jd{x=45, y=73, z=-407}
-[01:59:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=45, y=72, z=-405} jd{x=45, y=73, z=-407}
-[01:59:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=45, y=72, z=-405} jd{x=45, y=73, z=-407}
-[01:59:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=45, y=72, z=-410} jd{x=45, y=73, z=-407}
-[02:02:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=39, y=73, z=-430} jd{x=40, y=73, z=-431}
-[02:11:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=72, z=-420} jd{x=19, y=71, z=-420}
-[02:11:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=72, z=-420} jd{x=19, y=71, z=-420}
-[02:11:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=72, z=-420} jd{x=19, y=71, z=-420}
-[02:11:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=72, z=-420} jd{x=19, y=71, z=-420}
-[02:12:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=21, y=73, z=-419} jd{x=21, y=74, z=-418}
-[03:48:10] [Server thread/INFO]: Disconnecting Herobrine (/151.115.73.107:33098): You are not white-listed on this server!
-[03:48:10] [Server thread/INFO]: Herobrine (/151.115.73.107:33098) lost connection: You are not white-listed on this server!
-[03:48:11] [Server thread/WARN]: handleDisconnection() called twice
-[03:48:12] [Server thread/INFO]: MariHg[/151.115.73.107:33106] logged in with entity id 145521 at (27.450469117024628, 63.5, -336.47805088231536)
-[03:48:12] [Server thread/INFO]: MariHg joined the game
-[03:48:12] [Server thread/INFO]: [Not Secure] <MariHg> Hello. I'm a friendly bot that scans the internet for Minecraft servers.
-[03:48:12] [Server thread/INFO]: MariHg lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:chat'
-[03:48:12] [Server thread/INFO]: MariHg left the game
-[03:51:26] [Server thread/INFO]: [Not Secure] <C4M1LL3> Hi
-[03:51:45] [Server thread/INFO]: C4M1LL3 lost connection: Disconnected
-[03:51:45] [Server thread/INFO]: C4M1LL3 left the game
-[03:51:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:51:49] [Server thread/INFO]: stop<--[HERE]
-[03:51:51] [Server thread/INFO]: Stopping the server
-[03:51:51] [Server thread/INFO]: Stopping server
-[03:51:51] [Server thread/INFO]: Saving players
-[03:51:51] [Server thread/INFO]: Saving worlds
-[03:51:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:51:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:51:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:17:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:17:44] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[04:17:48] [ServerMain/INFO]: Loaded 1290 recipes
+[04:17:50] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:17:50] [Server thread/INFO]: Loading properties
+[04:17:50] [Server thread/INFO]: This server is running CraftBukkit version 4226-Spigot-146439e-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[04:17:51] [Server thread/INFO]: Debug logging is disabled
+[04:17:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:17:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:17:51] [Server thread/INFO]: Default game type: SURVIVAL
+[04:17:51] [Server thread/INFO]: Generating keypair
+[04:17:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:17:52] [Server thread/INFO]: Using epoll channel type
+[04:17:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:17:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:17:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:17:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:17:52] [Server thread/INFO]: Preparing level "world"
+[04:17:52] [Server thread/INFO]: -------- World Settings For [world] --------
+[04:17:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[04:17:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[04:17:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[04:17:52] [Server thread/INFO]: View Distance: 10
+[04:17:52] [Server thread/INFO]: Simulation Distance: 10
+[04:17:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[04:17:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[04:17:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[04:17:52] [Server thread/INFO]: Mob Spawn Range: 6
+[04:17:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[04:17:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[04:17:52] [Server thread/INFO]: Max TNT Explosions: 100
+[04:17:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[04:17:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[04:17:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[04:17:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[04:17:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[04:17:53] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[04:17:53] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[04:17:53] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[04:17:53] [Server thread/INFO]: Attempting to move world/DIM-1 to world_nether/DIM-1...
+[04:17:53] [Server thread/INFO]: Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+[04:17:53] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[04:17:53] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[04:17:53] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[04:17:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[04:17:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[04:17:53] [Server thread/INFO]: View Distance: 10
+[04:17:53] [Server thread/INFO]: Simulation Distance: 10
+[04:17:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[04:17:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[04:17:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[04:17:53] [Server thread/INFO]: Mob Spawn Range: 6
+[04:17:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[04:17:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[04:17:53] [Server thread/INFO]: Max TNT Explosions: 100
+[04:17:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[04:17:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Potato Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[04:17:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[04:17:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[04:17:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[04:18:00] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[04:18:00] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[04:18:00] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[04:18:00] [Server thread/INFO]: Attempting to move world/DIM1 to world_the_end/DIM1...
+[04:18:00] [Server thread/INFO]: Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+[04:18:00] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[04:18:00] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[04:18:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[04:18:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[04:18:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[04:18:00] [Server thread/INFO]: View Distance: 10
+[04:18:00] [Server thread/INFO]: Simulation Distance: 10
+[04:18:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[04:18:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[04:18:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[04:18:00] [Server thread/INFO]: Mob Spawn Range: 6
+[04:18:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[04:18:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[04:18:00] [Server thread/INFO]: Max TNT Explosions: 100
+[04:18:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[04:18:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[04:18:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[04:18:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[04:18:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[04:18:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:05] [Server thread/INFO]: Time elapsed: 5437 ms
+[04:18:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:18:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:08] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[04:18:08] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[04:18:08] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[04:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[04:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[04:18:10] [Server thread/INFO]: Time elapsed: 4188 ms
+[04:18:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:18:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:18:11] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[04:18:11] [Worker-Main-1/INFO]: Preparing spawn area: 21%
+[04:18:12] [Worker-Main-1/INFO]: Preparing spawn area: 21%
+[04:18:13] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[04:18:13] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[04:18:13] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[04:18:14] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[04:18:14] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[04:18:15] [Server thread/INFO]: Time elapsed: 4846 ms
+[04:18:15] [Server thread/INFO]: Done (22.853s)! For help, type "help"
+[04:18:40] [User Authenticator #1/INFO]: UUID of player C4M1LL3 is f2a6e6c5-bef7-3165-8089-b7ba84fc2444
+[04:18:42] [Server thread/INFO]: C4M1LL3 joined the game
+[04:18:42] [Server thread/INFO]: C4M1LL3[/181.237.191.248:57252] logged in with entity id 573 at ([world]38.6017994260303, 73.0, -404.18818655405926)
+[04:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[04:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4696ms or 93 ticks behind
+[04:19:05] [Server thread/INFO]: C4M1LL3 issued server command: /?
+[04:19:36] [Server thread/INFO]: C4M1LL3 lost connection: Disconnected
+[04:19:37] [Server thread/INFO]: C4M1LL3 left the game
+[04:19:41] [Server thread/INFO]: Stopping the server
+[04:19:41] [Server thread/INFO]: Stopping server
+[04:19:41] [Server thread/INFO]: Saving players
+[04:19:41] [Server thread/INFO]: Saving worlds
+[04:19:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:19:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
